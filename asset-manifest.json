@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-scherrer/static/css/main.8a3c45b0.css",
+    "main.js": "/react-scherrer/static/js/main.d2cc9c9f.js",
+    "index.html": "/react-scherrer/index.html",
+    "main.8a3c45b0.css.map": "/react-scherrer/static/css/main.8a3c45b0.css.map",
+    "main.d2cc9c9f.js.map": "/react-scherrer/static/js/main.d2cc9c9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a3c45b0.css",
+    "static/js/main.d2cc9c9f.js"
+  ]
+}
